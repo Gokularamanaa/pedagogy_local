@@ -1,0 +1,26 @@
+{
+  "Remember": [
+    "define", "list", "describe", "identify", "state", "recall", "name", "show",
+    "history", "applications", "introduction", "basics", "concept"
+  ],
+  "Understand": [
+    "explain", "summarize", "classify", "interpret", "compare", "illustrate", "discuss",
+    "difference", "overview", "principles", "features", "characteristics"
+  ],
+  "Apply": [
+    "solve", "implement", "use", "demonstrate", "calculate", "execute", "operate",
+    "search", "traversal", "algorithm", "problem", "methods", "techniques"
+  ],
+  "Analyze": [
+    "analyze", "compare", "contrast", "differentiate", "organize", "deconstruct", "investigate",
+    "complexity", "comparison", "efficiency", "structure", "optimization"
+  ],
+  "Evaluate": [
+    "critique", "judge", "assess", "justify", "recommend", "defend", "rate", "evaluate",
+    "performance evaluation", "suitability", "limitations", "merits"
+  ],
+  "Create": [
+    "design", "construct", "develop", "formulate", "author", "compose", "produce", "generate",
+    "model", "architecture", "system", "framework", "synthesis"
+  ]
+}

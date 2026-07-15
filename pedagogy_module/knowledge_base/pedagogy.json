@@ -1,0 +1,54 @@
+{
+  "pedagogies": [
+    {
+      "name": "Visualization",
+      "description": "Uses visual tools, diagrams, flowcharts, graphs, visual trace of execution, or animations to represent abstract structures and steps.",
+      "blooms_levels": ["Understand", "Apply"]
+    },
+    {
+      "name": "Interactive Lecture",
+      "description": "Traditional lecturing interspersed with brief discussion, questioning, concept tests, or think-pair-share tasks to keep students engaged.",
+      "blooms_levels": ["Remember", "Understand"]
+    },
+    {
+      "name": "Problem-Based Learning",
+      "description": "Students solve open-ended, complex, real-world problems to learn principles, algorithm designs, and application details.",
+      "blooms_levels": ["Apply", "Analyze", "Evaluate"]
+    },
+    {
+      "name": "Project-Based Learning",
+      "description": "Extended inquiry process structured around complex, authentic questions and carefully designed products or software systems.",
+      "blooms_levels": ["Analyze", "Evaluate", "Create"]
+    },
+    {
+      "name": "Inquiry-Based Learning",
+      "description": "Students pose questions, investigate scenarios, and construct answers/conclusions through exploration.",
+      "blooms_levels": ["Understand", "Analyze", "Evaluate"]
+    },
+    {
+      "name": "Collaborative Learning",
+      "description": "Peer instruction, group discussions, and structured group activities to collaborate on solving concepts or design tasks.",
+      "blooms_levels": ["Apply", "Analyze", "Evaluate"]
+    },
+    {
+      "name": "Simulation & Role Playing",
+      "description": "Interactive environments or physical/dry-run scenarios where students play parts or act out execution details (e.g. queue enqueue/dequeue steps in BFS).",
+      "blooms_levels": ["Apply", "Analyze", "Create"]
+    },
+    {
+      "name": "Laboratory Practice",
+      "description": "Hands-on implementation, coding tasks, setting up configurations, running test cases, or experimentation in a programming lab.",
+      "blooms_levels": ["Apply", "Create"]
+    },
+    {
+      "name": "Case Study",
+      "description": "In-depth investigation of a single or group of real-world scenarios to understand practical implications and design choices.",
+      "blooms_levels": ["Analyze", "Evaluate"]
+    },
+    {
+      "name": "Flipped Classroom",
+      "description": "Students watch lectures or read materials before class, and use class time for active problem solving, Q&A, and discussions.",
+      "blooms_levels": ["Understand", "Apply", "Analyze"]
+    }
+  ]
+}
